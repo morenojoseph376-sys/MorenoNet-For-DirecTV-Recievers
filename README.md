@@ -10,6 +10,6 @@ Note: This a Windows OS Project, Linux Codes Are Being Found
 5. it will  show:
 C:\Users\(YOUR USER)\Server.intense\fake_genie_ssdp.py:13: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   DATE_STR = datetime.datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
-MorenoNet Genie SSDP responder running on 192.168.1.55...
+MorenoNet Genie SSDP responder running on 192.168.1.XX...
 Currently in Beta
 
